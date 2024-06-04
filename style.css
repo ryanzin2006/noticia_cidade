@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    background: white url(imagens/imagens/fundo.png) repeat-x;
+    background-position: center top;
+}
+
+#container {
+    width: 46.875em;
+    margin: 0 auto;
+}
+
+.header {
+    height: 11em;
+    border: 1px solid red;
+    background: url(imagens/imagens/detalhe-topo.png) no-repeat right top;
+}
+
+.logo {
+    width: 9.5em;
+    height: 4.12em;
+    background: url(imagens/imagens/logo.png) no-repeat center;
+}
